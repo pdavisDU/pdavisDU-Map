@@ -9,9 +9,6 @@ import java.util.Map;
  * and the amount of times the word appeared as a 'value'.
  *
  * Keys may not be duplicates, but there may be duplicate values in a map.
- *
- * You can read more about HashMap, a very efficient implementation of Map, here:
- * https://www.w3schools.com/java/java_hashmap.asp
  */
 public class Lab {
 
